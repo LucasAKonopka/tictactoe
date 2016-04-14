@@ -10,8 +10,6 @@ Next run cd to /lib and run "ruby game.rb" to play the game.
 This game has one difficutly. Hard. You cannot win, but you can try :)
 
 ======================================================================
-A big thanks to Chong Kim https://github.com/chongkim/ for his 
-videos on minimax with ruby. An extremely insightful and helpful video.
 
 
 
